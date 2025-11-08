@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+pdfplumber
+pillow
+pytesseract
+pdf2image
+camelot-py
+tabula-py
